@@ -39,8 +39,3 @@ If things suddenly seem **weird**:
 3. Press **Reset Scripts** at the top center of **Script Runner**.
 4. **Profit**.
 5. If **no Profit**, [Modding Haven](https://discord.gg/modding-haven-718224210270617702) is the fastest place to reach me.
-
-
-Thank you **Hao** and **Concerned Citizen** for helping the community and testing!
-
-If you like my mods and want more, consider [buying me a coffee](https://www.buymeacoffee.com/mrboobiebuyer). Members get access to a private Discord server, custom versions of mods, early test builds, a direct line for mod/feature requests, and more!
